@@ -54,7 +54,7 @@
 
 #### 版本控制
 
-已在 [steps\README](steps\README.md) 的 `如何提交任务`部分写明
+已在 [steps/README](https://github.com/west2-online/learn-design/blob/main/steps/README.md#%E5%A6%82%E4%BD%95%E6%8F%90%E4%BA%A4%E4%BB%BB%E5%8A%A1) 的 `如何提交任务`部分写明
 
 拓展阅读：
 
