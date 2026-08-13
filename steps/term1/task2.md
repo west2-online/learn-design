@@ -86,7 +86,10 @@
 - Pen -> *.svg: 钢笔、贝塞尔曲线及矢量的使用
 - etc.
 
-这里自卖自夸一下[@155TuT的旧版考核留痕与心得体会](https://155tut.github.io/2025/10/28/ui-design/)，应该能对你的 Figma 学习有不小的助力
+推荐观看:
+
+- [bilibili/猫sir不吃鱼](https://space.bilibili.com/3537108423674097/lists)
+- [@155TuT的旧版考核留痕与心得体会](https://155tut.github.io/2025/10/28/ui-design/)
 
 不过值得注意的是，由于本次任务的重点是海报设计，而非旧版的icon绘制与页面设计，因此我们需要做一些艺术字的学习补充：
 
