@@ -89,6 +89,7 @@
 推荐观看:
 
 - [bilibili/猫sir不吃鱼](https://space.bilibili.com/3537108423674097/lists)
+- [bilibili/设计师阿泽Az](https://space.bilibili.com/478378417)
 - [@155TuT的旧版考核留痕与心得体会](https://155tut.github.io/2025/10/28/ui-design/)
 
 不过值得注意的是，由于本次任务的重点是海报设计，而非旧版的icon绘制与页面设计，因此我们需要做一些艺术字的学习补充：
