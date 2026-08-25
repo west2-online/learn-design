@@ -41,25 +41,6 @@
     - Feedback: 让设计的状态、变化与结果便于观察与理解
 7. etc.
 
-参考样例:
-
-- [Apple Design](https://developer.apple.com/design/)
-- [Google Material Design](https://m3.material.io/)
-- [shadcn](https://ui.shadcn.com/)
-- [daisyui](https://daisyui.com/)
-- etc.
-
-推荐观看:
-
-> [!TIP]
-> 这里给出的视频也基本上是通过一些设计原则，从逻辑上否定另一些广为流传的“原则”。
-> 你要学的是思考与判断，而不是从别人那里不加选择的搬运
-
-- [10分钟讲解所有UI/UX概念 - 海盗CG搬运](https://www.bilibili.com/video/BV17vXGBaEhR/)
-- [APP设计，从这里开始 - oooooohmygosh](https://www.bilibili.com/video/BV1Rv411r7qK)
-- [少即是多：UI 设计中最大的谎言 - Sajid](https://www.bilibili.com/video/BV112ge6NEYf/)
-- [液态玻璃灾难：iOS采用率暴跌背后的哲学断裂 - Design Lovers](https://www.bilibili.com/video/BV12JZeBSEAz/)
-
 推荐阅读:
 
 > [!TIP]
@@ -86,11 +67,25 @@
 - Pen -> *.svg: 钢笔、贝塞尔曲线及矢量的使用
 - etc.
 
-推荐观看:
+推荐关注:
 
-- [bilibili/猫sir不吃鱼](https://space.bilibili.com/3537108423674097/lists)
+- [bilibili/大禾梅森设计](https://space.bilibili.com/391241166)
 - [bilibili/设计师阿泽Az](https://space.bilibili.com/478378417)
+- [bilibili/蓝胖丨新像素UI设计](https://space.bilibili.com/)
+
+推荐观看：
+
+- [一次性教会你所有的平面构图技巧](https://www.bilibili.com/video/BV15GeHzWEy4/)
+- [非设计师也该学的排版知识：视觉动线篇 - oooooohmygosh](https://www.bilibili.com/video/BV1FZ4y1g74Y/)
 - [@155TuT的旧版考核留痕与心得体会](https://155tut.github.io/2025/10/28/ui-design/)
+
+参考样例:
+
+- [2023 Romantic Route 3 — Bito](https://bito.tv/work/49/2023-Romantic-Route-3)：将客家文化和地方物件转化为当代 3D 主视觉，并形成海报、宣传片、印刷品与纪念品；适合分析文化语境与跨载体一致性
+- [Vancouver Film Festival 2024 — ZAK](https://wearezak.com/projects/vancouver-film-festival-2024/)：通过模块、裁切和明确的信息排版规则适配不同尺寸；适合分析 Grid、Whitespace 与组件化视觉系统
+- [GDC Award 获奖作品库](https://www.gdcaward.com/gdc-works?lang=cn)：可按文化海报、商业海报、动态海报、创意字体和活动形象系统分类筛选
+- [Type Directors Club 历届获奖作品](https://tdc.org/)：适合继续寻找字体、艺术字和海报排版案例
+- etc.
 
 不过值得注意的是，由于本次任务的重点是海报设计，而非旧版的icon绘制与页面设计，因此我们需要做一些艺术字的学习补充：
 
@@ -109,6 +104,14 @@
     - [oooooohmygosh](https://space.bilibili.com/38053181/)
     - [Nick的设计日记](https://space.bilibili.com/372184113/)
     - etc.
+4. 推荐观看:
+    - [被忽视的设计：中文字体 - oooooohmygosh](https://www.bilibili.com/video/BV1Xa411w7HU/)
+    - [你可能正在被劣质字体毒害 | Andrew Lam](https://www.bilibili.com/video/BV1hddGBfEnb/)
+    - etc.
+
+> [!NOTE]
+> 平面设计由于门槛较低，实在是难以找到好的公开课程，基本要靠其他 UI 设计课程来迁移自己的能力。
+> 或许你可以先看看task4的参考视频，也可以找考核负责人聊一聊学习时的困惑，我们会尽力帮忙解答。
 
 ## 作业
 
