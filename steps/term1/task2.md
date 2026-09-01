@@ -73,6 +73,11 @@
 - [bilibili/设计师阿泽Az](https://space.bilibili.com/478378417)
 - [bilibili/蓝胖丨新像素UI设计](https://space.bilibili.com/)
 
+如果你想看一些粥味设计:
+
+- [bilibili/晚风_圆子YUANZI](https://space.bilibili.com/244995488)
+- [bilibili/ignoredone](https://space.bilibili.com/4073074)
+
 推荐观看：
 
 - [一次性教会你所有的平面构图技巧](https://www.bilibili.com/video/BV15GeHzWEy4/)
