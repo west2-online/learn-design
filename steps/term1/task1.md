@@ -182,6 +182,10 @@
     - 浏览器
         - 仅推荐使用[Chorme](https://www.google.com/chrome/)
         - 推荐学习使用浏览器收藏夹，而非各软件独自的收藏夹
+    - 搜图
+        - 最推荐使用[谷歌图片](https://images.google.com/)
+        - 你或许可以试试[shutterstock](https://www.shutterstock.com/zh/)
+        - 找灵感或素材都很方便
 
 ## 作业
 

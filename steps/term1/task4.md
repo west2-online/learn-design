@@ -77,6 +77,7 @@
 - [Google Material Design](https://m3.material.io/)
 - [shadcn](https://ui.shadcn.com/)
 - [daisyui](https://daisyui.com/)
+- [reicon](https://reicon.dev/)
 - [Figma Learn](https://help.figma.com/hc/en-us): Figma 官方文档与教程
 - etc.
 

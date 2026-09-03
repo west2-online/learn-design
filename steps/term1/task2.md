@@ -104,6 +104,7 @@
     - [猫啃网](https://www.maoken.com/): 收录免费商用中文字体
     - [字由](https://www.hellofont.cn/): 字体预览、挑选与管理工具
     - [Google Fonts](https://fonts.google.com/): 开源字体
+    - [freefonts](https://freefonts.co/)：收录可免费用于个人和商业用途的字体
     - etc.
 3. 推荐关注:
     - [oooooohmygosh](https://space.bilibili.com/38053181/)
