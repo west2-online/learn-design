@@ -4,8 +4,11 @@
 
 > [!TIP]
 > task2 里的基础平面设计，本质上是在要你回答“如何把一张画面排得好看”。
+>
 > 而从本阶段开始，你要面对的问题变成了“如何设计一个好用且可持续演进的软件页面”。
+>
 > 两者最大的差别在于：画面的内容与尺寸是固定的，软件的内容、尺寸与形态却总在变化。
+>
 > 因此本章不再重复那些基础概念，而是围绕这些差别组织你需要新掌握的能力
 
 1. 从“一个画面”到“一条流程”
@@ -79,6 +82,8 @@
 - [daisyui](https://daisyui.com/)
 - [reicon](https://reicon.dev/)
 - [Figma Learn](https://help.figma.com/hc/en-us): Figma 官方文档与教程
+- [Cursor 图标是如何诞生的 - Design_韬 | 小红书](https://www.xiaohongshu.com/discovery/item/6a8829390000000023011b8c?source=webshare&xhsshare=pc_web&xsec_token=AB9igw_7tPTmX6EoXuAwP-A0vArO3zbdmvPSOu0SHAhuA=&xsec_source=pc_share)
+- [The Component Gallery - 为构建 UI 的人提供参考用词](https://component.gallery/)
 - etc.
 
 推荐观看：
@@ -90,6 +95,7 @@
 - [设计思维天花板！这1个视频让你超越99%的设计师](https://www.bilibili.com/video/BV1p6gD65Edw/)
 - [设计稿有多惊艳，上线后就有多打脸 - 猫sir]( https://www.bilibili.com/video/BV1aA3c6JELi/)
 - [2026设计师必看！布局与构图完整指南，彻底改变你的设计方式！](https://www.bilibili.com/video/BV142Ka6XEGQ/)
+- [Design System不是组件库，是判断系统 - ATOM63 | 小红书](https://www.xiaohongshu.com/discovery/item/6a98caf5000000001103a9d1?source=webshare&xhsshare=pc_web&xsec_token=AB2Q5k4Dfxd8TH3MmiGFOPCOPWlfsf5oxil0otpZ2Xv24=&xsec_source=pc_share)
 - etc
 
 推荐关注:
@@ -101,6 +107,7 @@
 
 > [!TIP]
 > 本次必做的是一个核心任务的完整流程、相关设计基础、必要状态、验证与交付。学习部分的品牌、图标、组件、Token、原型和协作知识都保留，用于支撑这条流程，不要求制作一个无所不包的组件库。
+>
 > 复杂多品牌 / 多语言系统、Library 发布与高级原型逻辑可继续探索；根据本次实际场景使用并说明，不为展示工具功能增加无关页面或状态。
 
 1. 在 Figma 中完成真实软件场景的 UI / UX 设计，可从如下方向中自行选题：

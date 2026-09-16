@@ -6,6 +6,7 @@
 
 > [!IMPORTANT]
 > 事实上，这里列出的并不是全部的设计规范与原则，世界上也并不存在一张可以完全囊括所有设计需要考虑的命题的表格。
+>
 > 找到实例总结并证明，考虑什么规范可以带来怎样的提升，这才是你真正需要考量的东西，而不是一味死记硬背
 
 1. 目标与限制
@@ -90,6 +91,10 @@
 - [Vancouver Film Festival 2024 — ZAK](https://wearezak.com/projects/vancouver-film-festival-2024/)：通过模块、裁切和明确的信息排版规则适配不同尺寸；适合分析 Grid、Whitespace 与组件化视觉系统
 - [GDC Award 获奖作品库](https://www.gdcaward.com/gdc-works?lang=cn)：可按文化海报、商业海报、动态海报、创意字体和活动形象系统分类筛选
 - [Type Directors Club 历届获奖作品](https://tdc.org/)：适合继续寻找字体、艺术字和海报排版案例
+- [网格是怎样进入屏幕的？从瑞士风格到 Figma - Aurelia的笔记 | 小红书](https://www.xiaohongshu.com/discovery/item/6a8b0f76000000001602323e?source=webshare&xhsshare=pc_web&xsec_token=ABbpoCMcWcLDzEa1gyN2joOdsWc94Z7Otr1-q3-3paTew=&xsec_source=pc_share)
+- [视觉排版进阶｜网格系统+风格搭建全流程 - 梦林聊设计 | 小红书](https://www.xiaohongshu.com/discovery/item/6a608706000000000101e317?source=webshare&xhsshare=pc_web&xsec_token=ABPVF8wteHyV25Yt-VPzNJ-8mEqOLYXdCyy3Q2XUEAiw4=&xsec_source=pc_share)
+- [轻盈感版面怎样排  - 一颗小葱design | 小红书](https://www.xiaohongshu.com/discovery/item/6a741cbb0000000005029501?source=webshare&xhsshare=pc_web&xsec_token=ABYY1qqpu2VA-E8OvQ971qWgFAjDuK3vWQLa9NZNWzm5Q=&xsec_source=pc_share)
+- [设计干货 | 视觉设计十二种平面构成 - HID嗨点设计周 | 小红书](https://www.xiaohongshu.com/discovery/item/6a7c38bb00000000250001aa?source=webshare&xhsshare=pc_web&xsec_token=ABbVbU5Ur2DpOVgpP4keBGS-fbI8opWBnsdcDRc7CTNNQ=&xsec_source=pc_share)
 - etc.
 
 不过值得注意的是，由于本次任务的重点是海报设计，而非旧版的icon绘制与页面设计，因此我们需要做一些艺术字的学习补充：
@@ -114,9 +119,12 @@
     - [被忽视的设计：中文字体 - oooooohmygosh](https://www.bilibili.com/video/BV1Xa411w7HU/)
     - [你可能正在被劣质字体毒害 | Andrew Lam](https://www.bilibili.com/video/BV1hddGBfEnb/)
     - etc.
+5. 你或许想看一些轻松的例子：
+    - [被大佬的职业化程度震惊了 - 阿冲设计便签 | 小红书]( https://www.xiaohongshu.com/discovery/item/6a736871000000003301069f?source=webshare&xhsshare=pc_web&xsec_token=ABggALTSMTLwQ2JwVtZjE_OPiy8KG3AeuRCxXr2kFtQGM=&xsec_source=pc_share)
 
 > [!NOTE]
 > 平面设计由于门槛较低，实在是难以找到好的公开课程，基本要靠其他 UI 设计课程来迁移自己的能力。
+>
 > 或许你可以先看看task4的参考视频，也可以找考核负责人聊一聊学习时的困惑，我们会尽力帮忙解答。
 
 ## 作业
